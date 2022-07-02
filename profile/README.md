@@ -1,31 +1,32 @@
-# Terra Theme - .github
+# Terra Theme
 
-## Development Status: Initial Stages
+Terra is a multi-platform theme collection with nature inspired themes for each season, with a day and night variant.
 
-## Description
+## 🚧 &nbsp;Status: Early development &nbsp;🚧</p>
 
-Terra is a Colorscheme inspired by nature and their seasons
+This theme is in an early development phase.
+
+Things and colors can (and will) change.
+
+This is all a work in progress.
+
+When I am finished with the VSCode variant for the theme, I will continue to work on [Neovim](https://github.com/terra-theme/nvim), Obsidian and [Terminal](https://github.com/terra-theme/terminal) variants.
+
+**Contribution will be possible and encouraged, if the base steps and infrastructure is ready.**
 
 ## Themes
 
-There bill a theme for each season, inspired by their representative colors, and some special themes.
+- Spring (Day & Night)
+- Summer (Day & Night)
+- Fall (Day & Night)
+- Winter (Day & Night)
 
-- Terra
-  - Spring
-    - Night
-    - Day
-  - Summer
-    - Night
-    - Day
-  - Fall
-    - Night
-    - Day
-  - Winter
-    - Night
-    - Day
-  - The Botanist
-    - Night
-    - Day
-  - The Explorer
-    - Night
-    - Day
+## Platforms
+
+I will first complete the VSCode theme and then work my way through the other platforms.
+
+- [Visual Studio Code](https://github.com/terra-theme/vscode)
+- [Terminal](https://github.com/terra-theme/terminal)
+- [Neovim](https://github.com/terra-theme/nvim)
+- [Obsidian](https://github.com/terra-theme/obsidian)
+- ...
